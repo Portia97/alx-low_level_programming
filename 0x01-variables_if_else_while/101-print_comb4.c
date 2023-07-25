@@ -26,7 +26,7 @@ putchar(num1);
 putchar(num2);
 putchar(num3);
 
-if (num1 != '8')
+if (num1 != '7')
 {
 putchar(',');
 putchar(' ');
@@ -39,6 +39,6 @@ num2++;
 num1++;
 num2 = '0';
 }
-putchar('\0');
+putchar('\n');
 return (0);
 }
