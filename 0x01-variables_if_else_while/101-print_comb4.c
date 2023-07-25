@@ -26,7 +26,7 @@ putchar(num1);
 putchar(num2);
 putchar(num3);
 
-if (num1 != '7')
+if (num1 != '8')
 {
 putchar(',');
 putchar(' ');
